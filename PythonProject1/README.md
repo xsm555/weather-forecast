@@ -36,8 +36,7 @@ pip install requests pyecharts
 python main.py
 ```
 
-## 截图
-![示例截图](screenshot.png)
+
 
 ## 贡献指南
 欢迎提交 Issue 或 Pull Request！
